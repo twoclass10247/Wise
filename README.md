@@ -1,2 +1,2 @@
-Wise.html
+Wise
 
