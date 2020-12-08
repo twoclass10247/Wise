@@ -1,19 +1,18 @@
 body{
-	margin:8% 10% 10% 23%;
+	margin:16% 10% 10% 37%;
+	background: lightblue;
 }
-tr{
-	background: black;
-}
-caption{
+h2{
 	font-family:sans-serif;
 	font-size: 150%;
 }
-th{
+em{
 	color: red;
 }
-textarea{
-	text-decoration: underline;
-}
-em{
+b{
 	border-style: outset;
 }
+
+
+
+
